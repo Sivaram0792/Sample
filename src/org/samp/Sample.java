@@ -6,8 +6,10 @@ public class Sample {
 		
 		System.out.println("hi ");
 		
+		System.out.println("how are you");
+		
+		
+		System.out.println("welcome to apple...");
 	}
-	
-	
 
 }
