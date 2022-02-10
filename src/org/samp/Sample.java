@@ -8,10 +8,11 @@ public class Sample {
 		
 		System.out.println("how are you");
 		
-		
 		System.out.println("welcome to apple...");
 		
 		System.out.println("I am Macbook...");
+		
+		System.out.println("I am Iwatch series 7");
 
 	}
 
