@@ -6,10 +6,13 @@ public class Sample {
 		
 		System.out.println("hi ");
 		
-		System.out.println("I am Mac book");
+		System.out.println("how are you");
 		
+		
+		System.out.println("welcome to apple...");
+		
+		System.out.println("I am Macbook...");
+
 	}
-	
-	
 
 }
