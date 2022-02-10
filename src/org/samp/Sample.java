@@ -10,6 +10,9 @@ public class Sample {
 		
 		
 		System.out.println("welcome to apple...");
+		
+		System.out.println("I am Macbook...");
+
 	}
 
 }
